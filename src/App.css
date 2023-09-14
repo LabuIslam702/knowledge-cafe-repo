@@ -1,0 +1,23 @@
+.container{
+  font-size: 40px;
+  font-weight:  700;
+  margin: 15px;
+
+}
+
+.profile{
+  display: flex;
+  justify-content: space-between;
+  align-items:center ;
+  padding: 10px;
+  margin: 4px;
+  border-bottom: 10px;
+  background-color: rgb(194, 174, 174);
+}
+.blogs{
+  font-size: 40px;
+  font-weight: 500;
+}
+.responsive{
+  display: flex;
+}
