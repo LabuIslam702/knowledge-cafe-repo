@@ -3,7 +3,8 @@
         "id": 3948,
         "cover_photo": "https://i.ibb.co/8PyBPvq/information-articles-blogging-device-screen.jpg",
         "title": "The Enchanted Forest",
-        "author_img": "https://example.com/author3948.jpg",
+        "author_img": "https://i.ibb.co/HqmsF3J/boy1.png",
+        "author": "Lukaku mandis",
         "posted_date": "September 14, 2023",
         "reading_time": 8,
         "hashtags": ["#fantasy", "#magic", "#adventure"]
@@ -12,7 +13,8 @@
         "id": 7821,
         "cover_photo": "https://i.ibb.co/8PyBPvq/information-articles-blogging-device-screen.jpg",
         "title": "Exploring Space: A Journey Beyond",
-        "author_img": "https://example.com/author7821.jpg",
+        "author_img": "https://i.ibb.co/6n1bxs0/boy2.jpg",
+        "author": "Lukaku mandis",
         "posted_date": "September 10, 2023",
         "reading_time": 12,
         "hashtags": ["#space", "#exploration", "#science"]
@@ -21,7 +23,8 @@
         "id": 2156,
         "cover_photo": "https://i.ibb.co/8PyBPvq/information-articles-blogging-device-screen.jpg",
         "title": "Gourmet Delights: Culinary Adventures",
-        "author_img": "https://example.com/author2156.jpg",
+        "author_img": "https://i.ibb.co/Mpw2HKj/girl1.jpg",
+        "author": "Lukaku mandis",
         "posted_date": "September 6, 2023",
         "reading_time": 10,
         "hashtags": ["#foodie", "#cuisine", "#travel"]
@@ -30,7 +33,8 @@
         "id": 6092,
         "cover_photo": "https://i.ibb.co/8PyBPvq/information-articles-blogging-device-screen.jpg",
         "title": "Urban Explorations: Hidden Gems of the City",
-        "author_img": "https://example.com/author6092.jpg",
+        "author_img": "https://i.ibb.co/NWs3KG3/girl2.jpg",
+        "author": "Lukaku mandis",
         "posted_date": "September 3, 2023",
         "reading_time": 15,
         "hashtags": ["#urbanexploration", "#architecture", "#citylife"]
@@ -39,7 +43,8 @@
         "id": 9510,
         "cover_photo": "https://i.ibb.co/8PyBPvq/information-articles-blogging-device-screen.jpg",
         "title": "Mindfulness and Meditation: A Journey Within",
-        "author_img": "https://example.com/author9510.jpg",
+        "author_img": "https://i.ibb.co/BrP4fLC/profile.png",
+        "author": "Lukaku mandis",
         "posted_date": "August 30, 2023",
         "reading_time": 7,
         "hashtags": ["#mindfulness", "#meditation", "#wellness"]

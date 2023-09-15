@@ -1,19 +1,22 @@
 
-import { useState } from 'react';
 import './App.css'
 import Headers from './components/Headers/Headers';
 import Blogs from './components/Blogs/Blogs';
 import Bookmarks from './components/Bookmarks/Bookmarks';
+import { useState } from 'react';
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [bookmarks, setBookmarks] = useState([]);
+  const handleAddToBookmark = blog =>{
+    console.log('book mark adding soon');
+  }
 
   return (
     <>
       <Headers></Headers>
-      <div className='responsive ml-4'>
-      <Blogs></Blogs>
+      <div className='responsive ml-10 max-w-7xl mx-auto'>
+      <Blogs handleAddToBookmark = {handleAddToBookmark}></Blogs>
       <Bookmarks></Bookmarks>
       </div>
       
